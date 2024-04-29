@@ -4,6 +4,4 @@ This repo will serve as a place to store all of notes and documentation.
 
 # Raw requirements
 
-They're written down [here](./raw-requirements.md).
-
-xD
+They're written down [here](./docs/raw-requirements.md).
